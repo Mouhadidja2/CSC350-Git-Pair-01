@@ -13,7 +13,7 @@ The other student is the **Partner**.
 Create one empty GitHub repository for the pair. Do not initialize it with a README, `.gitignore`, or license.
 
 Confirm the local repository is ready:
-
+ 
 ```text
 git status
 git branch --show-current
